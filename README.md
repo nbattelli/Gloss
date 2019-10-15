@@ -19,7 +19,7 @@ The Gloss source currently available via CocoaPods, Carthage and Swift Package M
 
 ### Swift Version
 
-It is compatible with Swift 5.0.
+Gloss is compatible with Swift 5.0.
 
 To use a version compatible with Swift 4.2, use version 2.1.x.
 
@@ -37,7 +37,7 @@ github "hkellaway/Gloss"
 
 ### Installation with Swift Package Manager
 
-See [Adding Package Dependencies to Your App](https://developer.apple.com/documentation/xcode/adding_package_dependencies_to_your_app). Search for `Gloss` with **Owner** `hkellaway`. Point to the desired version or `master` branch.
+See [Adding Package Dependencies to Your App](https://developer.apple.com/documentation/xcode/adding_package_dependencies_to_your_app). Search for `Gloss` with *Owner* `hkellaway`. Point to the desired version or the `master` branch.
 
 ## Usage
 
